@@ -7,6 +7,15 @@ class Translation(object):
     START_TEXT = """
 😍 Hai {} ,
 
+ඕනම ෆිල්ම් ඩවුන්ලොඩ් කර ගන්න අපෙ ගෘප් එකට ජොයින් වෙන්න 😉☑️ 
+👇👇👇👇👇👇
+
+👉@baiscopelinks👈
+
+
+
+
+
 💡 Telegram Auto Filter Bot
 
 I am a filter bot with advanced features currenty workig for any group. මේක ADV AUTO FILTER හි සිංහල සංස්කරණයයි.
@@ -65,7 +74,7 @@ I am a filter bot with advanced features currenty workig for any group. මේ�
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
+○ ᴄʀᴇᴀᴛᴏʀ : [Menukanimsadu](@Menukanimsadu)
 
-**[ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**
+**[🇱🇰බයිස්කෝප් LINKZ🇱🇰](https://t.me/baiscopelinks)**
 """
